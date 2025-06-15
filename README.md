@@ -27,11 +27,6 @@ python guessing_game.py
 
 ---
 
-## 📌 Demo
-
-*(Add a screenshot or short GIF here)*
-
----
 
 ⭐ Star this repo if you liked it!
 
